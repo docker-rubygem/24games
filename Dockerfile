@@ -2,7 +2,7 @@ FROM ruby:2.4
 
 MAINTAINER thinkbot@outlook.de
 
-ENV VERSION=0.1.8
+ENV VERSION=0.1.6
 
 RUN gem install 24games --version ${VERSION} --no-format-exec
 
