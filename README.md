@@ -29,7 +29,9 @@ It depends on your specific use case how your want to use it.
 
 For extension, it could be used as base image.
 So instead of struggeling with the installation of a gem, just write
+
 `FROM docker-gems/24games`
+
 Then add the customization.
 
 ## References
